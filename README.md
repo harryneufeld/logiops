@@ -4,6 +4,9 @@ This is an unofficial driver for Logitech mice and keyboard.
 
 This is currently only compatible with HID++ \>2.0 devices.
 
+Only difference between this fork and upstream repo:
+- Accepted Pull-Request https://github.com/PixlOne/logiops/pull/160
+
 ## Configuration
 [Refer to the wiki for details.](https://github.com/PixlOne/logiops/wiki/Configuration)
 
